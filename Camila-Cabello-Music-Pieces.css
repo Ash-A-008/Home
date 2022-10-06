@@ -22,7 +22,7 @@ h2, h3
 	margin-right: 20%;
 }
 
-img
+.Link
 
 {
 	width: 400px;
@@ -30,12 +30,7 @@ img
 	margin-left: auto;
 	margin-right: auto;
 	border: 15px solid white;
-}
-
-#Link
-
-{
-	text-align: center;
+	
 }
 
 /* Nav Bar */
@@ -83,3 +78,4 @@ li a:hover
 }
 
 /* Nav Bar */
+
