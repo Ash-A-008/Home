@@ -1,0 +1,128 @@
+body
+
+{
+	background-color: #e56b66;
+	color: #f2f2f2;
+}
+
+h1
+
+{
+	text-align: center;
+	font-family: garamond;
+	font-size: 70px;
+}
+
+h2
+
+{
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+h3
+
+{
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+p
+
+{
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+#Inter-Links
+
+{
+	margin-right: 2%;
+	margin-left: 90%;
+	text-align: center;
+	background-color: white;
+	color: black;
+}
+
+/* Side Info Card starts*/
+
+#Table
+
+{
+	float: right;
+	border: 1px;
+	width: 20%;
+	height: 20%;
+	margin-left: 5%;
+	background-color: white;
+	color: black;
+}
+
+th
+
+{
+	font-size: 20px;
+}
+
+.center
+
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+}
+
+#Side-Image-Info
+
+{
+	text-align: center;
+}
+
+/* Side Info Card ends*/
+
+/* Nav Bar starts*/
+
+ul
+
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 200px;
+	background-color: #1a1a1a;
+	position: fixed;
+	overflow: auto;
+}
+
+li
+
+{
+	text-align: center;
+}
+
+
+li a
+
+{
+	display: block;
+	color: white;
+	padding: 10px 16px;
+	text-decoration: none;
+}
+
+li a:hover
+
+{
+	background-color: #cccccc;
+	color: white;
+}
+
+.active 
+
+{
+	background-color: #999999;
+	color: white;
+}
+
+/* Nav Bar ends*/

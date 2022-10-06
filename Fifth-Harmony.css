@@ -1,0 +1,94 @@
+body
+
+{
+	background-color: #e56b66;
+	color: #f2f2f2;
+}
+
+h1
+
+{
+	text-align: center;
+	font-family: garamond;
+	font-size: 45pt;
+}
+
+#Intro, #Members
+
+{
+	text-align: center;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+h3
+
+{
+	text-align: center;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+p
+
+{
+	text-align: center;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+#Intro-Para
+
+{
+	margin-left: 20%;
+	margin-right: 20%;
+	text-align: left;
+}
+
+/* Nav Bar */
+
+ul
+
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 200px;
+	background-color: #1a1a1a;
+	position: fixed;
+	overflow: auto;
+}
+
+li
+
+{
+	text-align: center;
+}
+
+
+li a
+
+{
+	display: block;
+	color: white;
+	padding: 10px 16px;
+	text-decoration: none;
+}
+
+li a:hover
+
+{
+	background-color: #cccccc;
+	color: white;
+}
+
+/* Nav Bar */
+
+.center
+
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%
+}
